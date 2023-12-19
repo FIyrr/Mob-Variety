@@ -46,6 +46,7 @@
       { "required": false, "id": "minecraft:text_display" },
       { "required": false, "id": "minecraft:item_display" },
       { "required": false, "id": "minecraft:ender_dragon" },
-      { "required": false, "id": "minecraft:player" }
+      { "required": false, "id": "minecraft:player" },
+      { "required": false, "id": "minecraft:shulker" }
     ]
   }
